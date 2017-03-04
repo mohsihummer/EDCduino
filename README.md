@@ -8,4 +8,5 @@ Logs: Engine RPM, wideband O2, Accelerator pedal, MAP, thermisters
 Outputs 2x PWM channels (called VVT and boost)  
 Based on Speeduino by Josh Stewart- https://github.com/noisymime/speeduino  
 Uses TunerStudio as interface  
-Configured for 60-2 crank, 1 teeth cam , cooper CRDI gensets designed by Ricardo  
+Configured for 60-2 crank, 1 teeth cam , cooper CRDI Turbo gensets designed by Ricardo  
+Tested on Proteus, upto 3333rpm, at rate of change of 60 degs per rpm
