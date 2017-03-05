@@ -1,5 +1,5 @@
 # EDCduino - pre-Beta
-Arduino based Interceptor ECU- crank angle & rail pressure interception, 2xPWM channels  		
+Arduino based open source Diesel Interceptor ECU- crank angle & rail pressure interception, 2xPWM channels  		
 Designed for CRDI  & GDI engines  
 Intercepts crank position and camposition sensors to change Start of Injection  
 Alpha-N and Speed-Density  
